@@ -1,5 +1,5 @@
 # BQ25611D Library for the Esp32
-  <img width="450px" src="https://www.mouser.mx/images/marketingid/2020/img/198893267.png?v=061025.0733" alt="" class="bq25611d-img"/>
+  ![img](resources/BQ25611D.png "BQ25611D")
 
   This library was made to easily setup the BQ25611D Buck Battery Charger, to use in products developed by StratoLit.
 
