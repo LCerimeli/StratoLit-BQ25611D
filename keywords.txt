@@ -1,0 +1,35 @@
+###########################################
+# Syntax Coloring Map For LoRa_E32_Series-library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+BQ25611D	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+initChip  KEYWORD2
+begin KEYWORD2
+
+setInputCurrentLimit	KEYWORD2
+setChgCtrl0	KEYWORD2
+setChgCurrentLimit	KEYWORD2
+setPreTermCurrent	KEYWORD2
+setBatteryVoltageLimit	KEYWORD2
+setChgCtrl1	KEYWORD2
+setChgCtrl2	KEYWORD2
+setChgCtrl3	KEYWORD2
+setChargerControl4	KEYWORD2
+
+getChargerStatus0	KEYWORD2
+getChargerStatus1	KEYWORD2
+getChargerStatus2	KEYWORD2
+getPartInfo	KEYWORD2
+
+resetPartRegisters	KEYWORD2
+
+initAllChargerRegisters	KEYWORD2
